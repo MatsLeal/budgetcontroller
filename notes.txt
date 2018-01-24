@@ -1,0 +1,12 @@
+
+
+Concepts
+
+Incoming (money) montly
+    
+Expense  (money going out)
+     has a Category
+     timestamp
+
+
+Categories (how to we clasify the expense made) 
